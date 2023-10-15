@@ -19,3 +19,7 @@ This is a simple YouTube video downloader script built with Python and the Pytub
 
 ```bash
 python youtube_downloader.py
+
+## Author
+
+- Avinash Parab(https://github.com/AvinashParab99)
